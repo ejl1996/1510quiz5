@@ -7,7 +7,7 @@ def is_sorted(list):
 
     A function that displays the list of integers in non-decreasing order.
 
-    :param list: list of integers
+    :param list: a list of integers
     :precondition: list must contain only integers
     :postcondition: displays the list of integers in non-decreasing order
     :return: True if list is sorted in non-decreasing order or False if it is not
