@@ -1,13 +1,13 @@
 import doctest
 
 
-def is_sorted(list):
+def is_sorted(number_list):
     """
     Display the list of integers in non-decreasing order.
 
     A function that displays the list of integers in non-decreasing order.
 
-    :param list: a list of integers
+    :param number_list: a list of integers
     :precondition: list must contain only integers
     :postcondition: displays the list of integers in non-decreasing order
     :return: True if list is sorted in non-decreasing order or False if it is not
